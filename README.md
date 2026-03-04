@@ -13,10 +13,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afratopcu&show_icons=true&theme=radical&hide_border=true" alt="Afra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afratopcu&layout=compact&theme=radical&hide_border=true" alt="Afra's Top Languages" />
-</div>
+[![Afra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afratopcu&show_icons=true&theme=radical&hide_border=true)](https://github.com/afratopcu)
+
+[![Afra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afratopcu&layout=compact&theme=radical&hide_border=true)](https://github.com/afratopcu)
 
 ---
 
