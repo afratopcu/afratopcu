@@ -11,11 +11,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
-[![Afra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afratopcu&show_icons=true&theme=radical&hide_border=true)](https://github.com/afratopcu)
-
-[![Afra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afratopcu&layout=compact&theme=radical&hide_border=true)](https://github.com/afratopcu)
+## 📊 GitHub Analytics
+[![Afra's Stats](https://github-readme-stats-one.vercel.app/api?username=afratopcu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
